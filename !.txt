@@ -1,0 +1,4 @@
+https://console.firebase.google.com/u/0/project/project-6139536944901378016/firestore/rules
+
+путь для редактирования правил,про которые постоянно на почту приходят 
+уведомления
